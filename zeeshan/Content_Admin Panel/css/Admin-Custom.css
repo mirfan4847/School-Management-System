@@ -1,0 +1,13 @@
+﻿
+
+.divforimage
+{
+     border-color:black; !important;
+     margin-left:8%;
+     height:150px;
+     width:150px;
+     border: 2px solid #a1a1a1;
+     border-radius: 10px;
+}
+
+

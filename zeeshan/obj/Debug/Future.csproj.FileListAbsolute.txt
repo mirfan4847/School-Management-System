@@ -1,0 +1,480 @@
+C:\Users\HP\Desktop\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\zeeshan.dll.config
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\zeeshan.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\zeeshan.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\EntityFramework.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Owin.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\WebGrease.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\EntityFramework.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\System.Web.Providers.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\zeeshan.dll.config
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\zeeshan.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\zeeshan.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Owin.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\WebGrease.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\System.Web.Providers.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+C:\Users\HP\Desktop\Embended\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+F:\All desktop\Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+C:\Users\Irfan Malik\Desktop\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojResolveAssemblyReference.cache
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.cache
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\RdlCompile.compiled
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll.config
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\zeeshan.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.bootstrap.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\AspNet.ScriptManager.jQuery.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.ScriptManager.WebForms.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Web.Infrastructure.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Owin.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\WebGrease.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Bll.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.Entities.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Optimization.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Antlr3.Runtime.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Newtonsoft.Json.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\EntityFramework.SqlServer.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\System.Web.Providers.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Google.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\bin\SchoolManagementSystem.DAL.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\zeeshan.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csprojAssemblyReference.cache
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csproj.CoreCompileInputs.cache
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\zeeshan\obj\Debug\Future.csproj.CopyComplete

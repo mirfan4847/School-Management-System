@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace zeeshan
+{
+    public partial class NotAuthenticated_aspx : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnWeb_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("2-9-Web-login.aspx");
+
+
+        }
+
+        protected void btnAdmin_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("1-3-Admin_Login.aspx");
+        }
+    }
+}

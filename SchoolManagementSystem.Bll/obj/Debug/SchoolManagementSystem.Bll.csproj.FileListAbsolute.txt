@@ -1,0 +1,65 @@
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+C:\Users\HP\Desktop\Embended\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+F:\All desktop\Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+F:\SemSTeRs\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+F:\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojResolveAssemblyReference.cache
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+G:\Development\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Bll.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.DAL.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\bin\Debug\SchoolManagementSystem.Entities.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.dll
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.pdb
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csprojAssemblyReference.cache
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csproj.CoreCompileInputs.cache
+F:\SBS\Projects\Muneeb Embended Final Final Final\zeeshan\SchoolManagementSystem.Bll\obj\Debug\SchoolManagementSystem.Bll.csproj.CopyComplete
